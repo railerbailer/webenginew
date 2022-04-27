@@ -6,7 +6,7 @@
   "dependencies": {
     "firebase": "^4.8.1",
     "fullcalendar-reactwrapper": "^1.0.7",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^2.0.0",
     "re-base": "^3.2.1",
     "react": "^16.2.0",
     "react-calendar-component": "^2.0.0",
